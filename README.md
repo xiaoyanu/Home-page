@@ -4,7 +4,7 @@
 
 
 # 效果图
-![](https://cs-ans.chaoxing.com/download/cdbbf203f910ce6d3ccc22fa06ebfb44)
+![](http://imageproxy.chaoxing.com/0x0,q0,jpeg,s8scU0PLPJVdYRAcjizbBlrjvXxRkYGdcLLLKf0vmRbs/http://p.ananas.chaoxing.com/star3/origin/cdbbf203f910ce6d3ccc22fa06ebfb44.png)
 
 
 
