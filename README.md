@@ -6,7 +6,8 @@
 
 
 # 效果图
-![](http://p.ananas.chaoxing.com/star3/origin/cdbbf203f910ce6d3ccc22fa06ebfb44.png)
+![cdbbf203f910ce6d3ccc22fa06ebfb44](https://github.com/user-attachments/assets/b877c4b8-2c55-4efb-abcf-6e328fed1393)
+
 
 
 
